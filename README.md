@@ -9,6 +9,11 @@
 5. **ECSでサービスをデプロイ**  
 6. **CodePipelineを作成し、全体のCI/CDパイプラインを構築**
 
+## 概要図
+
+![AWS構成図](./diagram/diagram01.png)
+
+
 ## 1. **GitHubリポジトリの準備**
 
 - **Dockerfile**: Dockerイメージを作成
